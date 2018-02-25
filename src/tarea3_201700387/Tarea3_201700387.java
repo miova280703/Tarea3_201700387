@@ -105,6 +105,7 @@ public class Tarea3_201700387 {
                     case 2:
                         break;
                     case 3: 
+                         System.out.println("Ir al Menu principal");
                         break;
                 }
                 }while(opc !=3);
